@@ -1,0 +1,12 @@
+{
+    "owner": {
+      "username": "sorube314",
+      "email": "sorube@hotmail.com"
+    },
+    "records": {
+        "NS": [
+        "miguel.ns.cloudflare.com",
+        "raegan.ns.cloudflare.com"
+        ]
+    }
+}
